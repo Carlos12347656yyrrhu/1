@@ -19,7 +19,7 @@ Trace:
 npm manifest: 
   { 
       "name": "CuriosityBot-MD",
-      "version": "2.2.2",
+      "version": "1.0.1",
       "description": "Bot simple con pocos comando",
       "main": "index.js",
       "type": "module",
