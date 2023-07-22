@@ -189,4 +189,4 @@ echo -e "\e[31m
 ███▀▀▀███████ \n\e[0m"
     
 echo -e "\033[01;32m\033[01m🚀 Iniciando CuriosityBot-MD!!\n\033[0m"
-npm start
+npm star
